@@ -29,7 +29,8 @@
       "ts",
       "json"
     ],
-    "resetModules": false
+    "resetModules": false,
+    "testMatch": ["**/__tests__/**/*test.[tj]s"]
   },
   "bin": {
     "expo": "./bin/expo.js",
